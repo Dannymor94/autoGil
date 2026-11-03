@@ -1,0 +1,58 @@
+{
+  "content": [
+    {
+      "id": "task-001",
+      "title": "Написать отчёт",
+      "projectId": "proj-alpha",
+      "boardId": "board-alpha",
+      "columnId": "col-inprogress",
+      "createdAt": 1748736000000,
+      "deadline": {
+        "deadline": 1751500800000,
+        "startDate": null,
+        "withTime": false
+      },
+      "timeTracking": {
+        "plan": 2.5
+      },
+      "completed": false
+    },
+    {
+      "id": "task-002",
+      "title": "Созвон с командой",
+      "projectId": "proj-alpha",
+      "boardId": "board-alpha",
+      "columnId": "col-done",
+      "createdAt": 1748649600000,
+      "deadline": null,
+      "timeTracking": {},
+      "completed": true
+    },
+    {
+      "id": "task-003",
+      "title": "Обновить документацию",
+      "projectId": "proj-beta",
+      "boardId": "board-beta",
+      "columnId": "col-todo",
+      "createdAt": 1746057600000,
+      "deadline": null,
+      "timeTracking": null,
+      "completed": false
+    },
+    {
+      "id": "task-004",
+      "title": "Оплатить счёт",
+      "projectId": "proj-personal",
+      "boardId": "board-personal",
+      "columnId": "col-todo",
+      "createdAt": 1751068800000,
+      "deadline": {
+        "deadline": 1751155200000,
+        "startDate": null,
+        "withTime": false
+      },
+      "timeTracking": null,
+      "completed": false
+    }
+  ]
+}
